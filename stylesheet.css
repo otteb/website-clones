@@ -50,7 +50,6 @@
     /*height:100vh;
     width:100%;*/
     margin: 0 auto 25px;
-    background: #ccc;
     position: relative;
    
     
@@ -108,6 +107,11 @@ footer {
 .media-links {
     position: relative;
     padding-top: 10px;
+}
+
+.facebook {
+    margin-left: 20px;
+    margin-right: 20px;
 }
 
 @media(max-width: 750px){
